@@ -33,10 +33,10 @@ Descripción breve del proyecto: qué hace, por qué es interesante, y cuáles f
 
 ### 💻 **Habilidades Técnicas**
 
-- **Lenguajes de Programación:** [Python, JavaScript, Java]
-- **Frameworks y Librerías:** [Django, React, Spring Boot, Panda, Flask]
-- **Herramientas de Desarrollo:** [Git, Docker]
-- **Bases de Datos:** [MySQL, PostgreSQL,Firebase]
+- **Lenguajes de Programación:** Python, JavaScript, Java
+- **Frameworks y Librerías:** Django, React, Spring Boot, Panda, Flask
+- **Herramientas de Desarrollo:** Git, Docker
+- **Bases de Datos:** MySQL, PostgreSQL,Firebase
 
 ---
 
