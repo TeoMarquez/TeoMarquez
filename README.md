@@ -5,16 +5,16 @@ Estoy en mi ultimo año de la **Tecnicatura en informatica profesional y persona
 
 ### 📬 **Contacto**
 - 📫 **Email:** msmarquez114@gmail.com
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/mateo-marquez-b27ba4319/]
+- 💼 **LinkedIn:** https://www.linkedin.com/in/mateo-marquez-b27ba4319/
 
 ---
 
 ### 🚀 **Ultimo Proyecto**
 
-#### 📌 **[App Web: Braiweb - En proceso]**
+#### 📌 ** App Web: Braiweb - En proceso **
 Desarrollo de una aplicación que convierta texto digital en formato Braille de manera eficiente y precisa. Soy el encargado del backend
-- **Tecnologías usadas:** [Python, Flask, React, JavaScript.]
-- **Características clave:** [Traducción Precisa, Interfaz Intuitiva.]
+- **Tecnologías usadas:** Python, Flask, React, JavaScript.
+- **Características clave:** Traducción Precisa, Interfaz Intuitiva.
 - **Repositorio:** [https://github.com/TeoMarquez/BraiWeb]
   
 ---
