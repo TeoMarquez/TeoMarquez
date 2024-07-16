@@ -24,7 +24,7 @@ Desarrollo de una aplicación que convierta texto digital en formato Braille de 
 - **Lenguajes de Programación:** Python, JavaScript, Java
 - **Frameworks y Librerías:** Django, React, Spring Boot, Panda, Flask
 - **Herramientas de Desarrollo:** Git, Docker
-- **Bases de Datos:** MySQL, PostgreSQL,Firebase
+- **Bases de Datos:** MySQL, PostgreSQL, Firebase
 
 ---
 
