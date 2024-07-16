@@ -15,7 +15,7 @@ Estoy en mi ultimo año de la **Tecnicatura en informatica profesional y persona
 Desarrollo de una aplicación que convierta texto digital en formato Braille de manera eficiente y precisa. Soy el encargado del backend
 - **Tecnologías usadas:** Python, Flask, React, JavaScript.
 - **Características clave:** Traducción Precisa, Interfaz Intuitiva.
-- **Repositorio:** [https://github.com/TeoMarquez/BraiWeb]
+- **Repositorio:** https://github.com/TeoMarquez/BraiWeb
   
 ---
 
