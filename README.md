@@ -5,30 +5,18 @@ Estoy en mi ultimo año de la **Tecnicatura en informatica profesional y persona
 
 ### 📬 **Contacto**
 - 📫 **Email:** msmarquez114@gmail.com
-- 💼 **LinkedIn:** [tu LinkedIn]
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/mateo-marquez-b27ba4319/]
 
 ---
 
-### 🚀 **Proyectos Destacados**
+### 🚀 **Ultimo Proyecto**
 
-#### 📌 **[Proyecto 1: Nombre del Proyecto]**
-Descripción breve del proyecto: qué hace, por qué es interesante, y cuáles fueron tus contribuciones principales.
-- **Tecnologías usadas:** [Python, Django, React, etc.]
-- **Características clave:** [feature 1, feature 2, feature 3]
-- **Repositorio:** [Enlace al repositorio del proyecto]
-
-#### 📌 **[Proyecto 2: Nombre del Proyecto]**
-Descripción breve del proyecto: qué hace, por qué es interesante, y cuáles fueron tus contribuciones principales.
-- **Tecnologías usadas:** [JavaScript, Node.js, MongoDB, etc.]
-- **Características clave:** [feature 1, feature 2, feature 3]
-- **Repositorio:** [Enlace al repositorio del proyecto]
-
-#### 📌 **[Proyecto 3: Nombre del Proyecto]**
-Descripción breve del proyecto: qué hace, por qué es interesante, y cuáles fueron tus contribuciones principales.
-- **Tecnologías usadas:** [Java, Spring Boot, MySQL, etc.]
-- **Características clave:** [feature 1, feature 2, feature 3]
-- **Repositorio:** [Enlace al repositorio del proyecto]
-
+#### 📌 **[App Web: Braiweb - En proceso]**
+Desarrollo de una aplicación que convierta texto digital en formato Braille de manera eficiente y precisa. Soy el encargado del backend
+- **Tecnologías usadas:** [Python, Flask, React, JavaScript.]
+- **Características clave:** [Traducción Precisa, Interfaz Intuitiva.]
+- **Repositorio:** [https://github.com/TeoMarquez/BraiWeb]
+  
 ---
 
 ### 💻 **Habilidades Técnicas**
