@@ -1,7 +1,7 @@
 # ¡Hola! Soy **Mateo** 👋
 
 ### 🌟 **Acerca de mí**
-Estoy en mi ultimo año de la **Tecnicatura en informatica profesional y personal**, soy programador y me concentro en el area del **Backend**. Me especializo en **Programacion web**, y disfruto resolver problemas complejos a través de la programación y la tecnología.
+Me recibí de **Tecnicatura en informatica profesional y personal**, soy programador y me concentro en el area del **Backend**. Me especializo en **Programacion web**, y disfruto resolver problemas complejos a través de la programación y la tecnología.
 
 ### 📬 **Contacto**
 - 📫 **Email:** msmarquez114@gmail.com
@@ -21,16 +21,16 @@ Desarrollo de una aplicación que convierta texto digital en formato Braille de 
 
 ### 💻 **Habilidades Técnicas**
 
-- **Lenguajes de Programación:** Python, JavaScript, Java
-- **Frameworks y Librerías:** Django, React, Spring Boot, Panda, Flask
-- **Herramientas de Desarrollo:** Git, Docker
-- **Bases de Datos:** MySQL, PostgreSQL, Firebase
+- **Lenguajes de Programación:** Python, JavaScript, Java, Rust, C, C++
+- **Frameworks y Librerías:** Django, React, Spring Boot, Panda, Flask, Angular, Tauri
+- **Herramientas de Desarrollo:** Git, Docker, Vite
+- **Bases de Datos:** MySQL, PostgreSQL, Firebase, MongoDB
 
 ---
 
 ### 🎓 **Educación**
 
-- **Tecnico en informatico profesional y personal** - E.E.T. N°3139 "Gral. M.M. de Güemes, en progreso
+- **Tecnico en informatico profesional y personal** - E.E.T. N°3139 "Gral. M.M. de Güemes, 2024
 - **Certificaciones:**
     - Introducción a IoT, Cisco Networking Academy
     - Programacion HTML- CSS, CoderHouse
