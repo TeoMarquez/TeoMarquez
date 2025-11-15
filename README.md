@@ -1,7 +1,7 @@
 # ¡Hola! Soy **Mateo** 👋
 
 ### 🌟 **Acerca de mí**
-Me recibí de **Tecnicatura en informática profesional y personal**, soy programador y me concentro en el área del **Backend**. Me especializo en **Programación web**, y disfruto resolver problemas complejos a través de la programación y la tecnología. Me encanta los retos y siempre busco algo nuevo con lo que experimentar, si tienes algun proyecto en mente, ni lo dudes y trabajemos juntos
+Soy **Técnico en informática profesional y personal**, actualmente estudiando Ingenieria en Inteligencia Artificial. Soy programador y me concentro en el área del **Backend**. Con experiencia en programación web, automatización, IoT y construcción de aplicaciones completas. Me apasiona resolver problemas complejos, aprender tecnologías nuevas y diseñar soluciones eficientes y escalables.
 
 ### 📬 **Contacto**
 - 📫 **Email:** msmarquez114@gmail.com
@@ -34,7 +34,7 @@ Repositorio: [controlAgsabot](https://github.com/TeoMarquez/controlAgsabot)
 
 - **Frontend / UI**: React, Angular, Tailwind, Three.js
 
-- **Backend / Servidores**: Django, Flask, Spring Boot, Laravel, Tauri, Node.js/Express, FastAPI, REST APIs
+- **Backend**: Django, Flask, Spring Boot, Laravel, Tauri, Node.js/Express, FastAPI, REST APIs 
 
 - **Bases de Datos**: MySQL, PostgreSQL, Firebase, MongoDB
 
@@ -50,7 +50,7 @@ Repositorio: [controlAgsabot](https://github.com/TeoMarquez/controlAgsabot)
 
 ### 🎓 **Educación**
 
-- **Tecnicatura en Informatica Profesional y Personal** - E.E.T. N°3139 "Gral. M.M. de Güemes, 2024
+- **Tecnicatura en Informática Profesional y Personal** - E.E.T. N°3139 "Gral. M.M. de Güemes", 2024
 - **Ingeniería en Inteligencia Artificial** - Universidad Santo Tomas de Aquino, 2025 - 2029 (expected)
 - **Certificaciones:**
     - Cisco Networking Academy - Introducción a IoT
@@ -63,7 +63,12 @@ Repositorio: [controlAgsabot](https://github.com/TeoMarquez/controlAgsabot)
 
 - **Análisis de datos** - Pasante en Subsecretaria de transito y movilidad, 2024
   - Desarrollo de sistemas automatizados de análisis de Big Data para detectar rutinas de usuarios del transporte público.
-
+    
+- **Soporte IT, Redes y Automatización** — Radio Cielo, 2025
+  - Mantenimiento y reparación de computadoras, equipos de audio y servidores NAS.
+  - Configuración de infraestructura de red para estudios y cabinas de transmisión.
+  - Reemplazo de componentes, diagnóstico de fallas y mantenimiento general de hardware y equipos de estudio.
+    
 ---
 
 ### 🌱 **Mis Valores**
