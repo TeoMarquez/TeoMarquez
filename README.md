@@ -56,9 +56,6 @@ Repositorio: [controlAgsabot](https://github.com/TeoMarquez/controlAgsabot)
     - Cisco Networking Academy - Introducción a IoT
     - Cisco Networking Academy - Introducción a la Ciberseguridad
     - Cisco Networking Academy - Concepto Básico de Redes 
-    - CoderHouse - Programacion HTML/CSS 
-    - CoderHouse - Programación Javascript
-    - CoderHouse - Programación ReactJs
     - AWS Academy Graduate - Generative AI Foundations
 ---
 
